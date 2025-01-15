@@ -1,12 +1,11 @@
 ![](./assets/bannnnnner.png)
 
-# Hive Agent Kit
+# Ezco Hive Agent Kit
 
 This library provides you with an easy way to create and run Hive Agents.
 
 Join our Discord community for support and discussion.
 
-[![](https://dcbadge.limes.pink/api/server/vnJvW4wZp9)](https://discord.gg/vnJvW4wZp9)
 
 ## Supported Large Language Models (LLMs)
 - OpenAI
@@ -45,7 +44,6 @@ Join our Discord community for support and discussion.
    - phi3:medium
    - command-r
    - command-r-plus
-   - and any supported by [Ollama](https://ollama.com/library)
 
 ## Project Requirements
 
@@ -350,12 +348,6 @@ sample_prompts = [
 ]
 ```
 
-See [./hive_config_example.toml](./hive_config_example.toml) for an example configuration file.
-
-
-## Tutorial
-
-The complete tutorial can be found at [./tutorial.md](./tutorial.md).
 
 ## Contributing
 
@@ -429,8 +421,6 @@ pytest  --cov --cov-report=html
 Reports file `tests/htmlcov/index.html`
 
 ## API Doc
-
-Open [http://localhost:8000/docs](http://localhost:8000/docs) with your browser to see the Swagger UI of the API.
 
 ## Learn More
 
