@@ -1,4 +1,4 @@
-![](./assets/logo.jpg)
+![](./assets/bannnnnner.png)
 
 # Hive Agent Kit
 
